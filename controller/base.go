@@ -3,8 +3,8 @@ package controller
 import (
 	"encoding/json"
 
-	"github.com/astaxie/beego"
-	"github.com/astaxie/beego/logs"
+	"github.com/craftsman-li/beego"
+	"github.com/craftsman-li/beego/logs"
 	"github.com/craftsman-li/util"
 )
 

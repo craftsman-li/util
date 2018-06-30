@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/astaxie/beego/logs"
+	"github.com/craftsman-li/beego/logs"
 )
 
 func Get(url string) ([]byte, error) {

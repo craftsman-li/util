@@ -1,6 +1,6 @@
 package model
 
-import "github.com/astaxie/beego/orm"
+import "github.com/craftsman-li/beego/orm"
 
 type Base struct {
 	Id        int64             `json:"id"`

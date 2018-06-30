@@ -3,7 +3,7 @@ package util
 import (
 	"errors"
 
-	"github.com/astaxie/beego/logs"
+	"github.com/craftsman-li/beego/logs"
 	"golang.org/x/crypto/bcrypt"
 )
 

@@ -3,8 +3,8 @@ package util
 import (
 	"errors"
 
-	"github.com/astaxie/beego/logs"
-	"github.com/astaxie/beego/orm"
+	"github.com/craftsman-li/beego/logs"
+	"github.com/craftsman-li/beego/orm"
 )
 
 /**
